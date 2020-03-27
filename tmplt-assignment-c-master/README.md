@@ -1,6 +1,6 @@
-# The assignment title
+# Somma due numeri
 
-**📖 Here goes the assignment description.**
+**📖Dati due interi farne la somma.**
 
 ## Instructions
 
